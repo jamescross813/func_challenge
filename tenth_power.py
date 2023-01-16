@@ -1,5 +1,5 @@
 # Write your tenth_power function here:
-
+def tenth_power(num):
 # Uncomment these function calls to test your tenth_power function:
 #print(tenth_power(1))
 # 1 to the 10th power is 1
