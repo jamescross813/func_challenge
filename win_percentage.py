@@ -1,4 +1,5 @@
 # Write your win_percentage function here:
+def win_percentage(wins, losses):
 
 # Uncomment these function calls to test your win_percentage function:
 #print(win_percentage(5, 5))
