@@ -1,5 +1,6 @@
 # Write your first_three_multiples function here
-
+def first_three_multiples(num):
+    
 
 # Uncomment these function calls to test your first_three_multiples function:
 #first_three_multiples(10)
