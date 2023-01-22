@@ -1,5 +1,6 @@
 # Write your dog_years function here:
-
+def dog_years(name, age):
+    
 # Uncomment these function calls to test your dog_years function:
 #print(dog_years("Lola", 16))
 # should print "Lola, you are 112 years old in dog years"
