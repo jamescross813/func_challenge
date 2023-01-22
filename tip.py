@@ -1,5 +1,6 @@
 # Write your tip function here:
-  
+def tip(total, percentage):
+
 # Uncomment these function calls to test your tip function:
 #print(tip(10, 25))
 # should print 2.5
